@@ -1,0 +1,6 @@
+<script>
+function draw() {
+	//無限タブ増殖
+	window.open(url, "_blank")
+}
+</script>
